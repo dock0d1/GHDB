@@ -10,7 +10,7 @@ then
     exit
 fi
 
-SEARCH="google-chrome-stable"
+SEARCH="google-chrome-stable" #caso queira mudar o navegador só alterar o nome aki
 ALVO="$1"
 echo "Pesquisa no Pastebin"
 $SEARCH "http://google.com/search?q=site:pastebin.com+$ALVO" 2> /dev/null
