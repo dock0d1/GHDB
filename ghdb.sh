@@ -4,7 +4,7 @@ then
     echo
     echo Script feito pra automatizar o processo de dork
     echo Modo de uso : ghdb.sh www.facebook.com
-    echo Criado por dock0d1
+    echo Criado por prok3z
     echo 
     echo
     exit
